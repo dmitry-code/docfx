@@ -1,0 +1,7 @@
+#- name: Cost
+- name: "Buy virtual machines" 
+  href: buy-virtual-machine-reserved-instances-to-save-money-over-pay-as-you-go-costs.md
+- name: "Configure automatic renewal" 
+  href: configure-automatic-renewal-for-your-expiring-reservation.md
+- name: "Consider taking action" 
+  href: consider-taking-action-on-your-idle-azure-cosmos-db-containers.md

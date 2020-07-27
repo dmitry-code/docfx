@@ -1,3 +1,7 @@
 - name: Home
   href: home.md
   homepage: home.md
+
+- name: Viacode products
+  href: public/viacode-products.md
+  topicHref: public/viacode-products.md

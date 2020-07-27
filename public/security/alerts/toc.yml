@@ -1,0 +1,10 @@
+#security
+- name: intentions
+  href: intentions.md  
+- name: security-alerts
+  href: security-alerts.md
+- name: alerts
+  items:
+    - name: azure app service
+      href: azure-app-service/an-attempt-to-run-linux-commands-on-a-windows-app-service.md
+      topicHref: an-attempt-to-run-linux-commands-on-a-windows-app-service.md

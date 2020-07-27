@@ -1,0 +1,4 @@
+- name: attempt to run Linux
+  href: an-attempt-to-run-linux-commands-on-a-windows-app-service.md  
+- name: Ip connected to your Azure
+  href: an-ip-that-connected-to-your-azure-app-service-ftp-interface-was-found-in-threat-intelligence.md

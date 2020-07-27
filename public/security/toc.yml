@@ -1,0 +1,13 @@
+- name: public
+  href: viacode-products.md
+  homepage: viacode-products.md
+  items:
+    - name: "cost"
+      href: cost/recommendations/toc.yml
+      topicHref: cost/recommendations/buy-virtual-machine-reserved-instances-to-save-money-over-pay-as-you-go-costs.md
+    - name: "performance"
+      href: performance/recommendations/toc.yml
+      topicHref: add-a-mysql-read-replica-server.md
+    - name: "security-alerts-intentions"
+      href: security/alerts/intentions.md
+      topicHref: security/alerts/intentions.md
