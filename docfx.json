@@ -27,8 +27,8 @@
       },
       {
         "files": [
-          "api/*.md",
-          "articles/**.md",
+          "public/**.md",
+          "public/**/toc.yml",
           "toc.yml",
           "*.md"
         ],
@@ -60,9 +60,22 @@
         ]
       }
     ],
+    "globalMetadata": {
+      "_appTitle": "VIAcode docs website",
+      "_enableSearch": "true",
+      "postProcessors": [ "ExtractSearchIndex" ],
+      //"brand": "azure",
+      //"searchScope": [ "Azure" ],
+      //"_appLogoPath": "Images/logo.png",
+      "_appFooter": "Copyright (c) - Microsoft 2019. All rights reserved.",
+      "globalMetadataFiles": [],
+      "fileMetadataFiles": []
+      //"_appFaviconPath": "Images/logo.png"
+    },
     "dest": "_site",
     "template": [
-      "default"
+      "default",
+      "templates/material"
     ]
   }
 }
